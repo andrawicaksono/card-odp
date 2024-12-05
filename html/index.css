@@ -1,6 +1,9 @@
-.card-parent {
-  padding: 40px;
+body {
   background-color: aquamarine;
+}
+
+.card-parent {
+  margin: 20px;
   display: flex;
   justify-content: space-between;
 }
